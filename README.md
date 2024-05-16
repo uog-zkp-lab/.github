@@ -1,4 +1,4 @@
-# Great resources to refer
+# Great resources
 
 ## Smart contracts
 
